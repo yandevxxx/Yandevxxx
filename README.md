@@ -28,7 +28,7 @@ Hello, I'm Zild Jian X TO — a tech enthusiast who is deeply curious and eager 
 
 - **Languages**: Java, Python, SQL, Pawn
 - **Tools**: VS Code, Git, MySQL, PostgreSQLs
-- **Concepts**: OOP, CRUD
+- **Concepts**: OOP, CRUD, Algoritma
 
 ---
 
