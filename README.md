@@ -14,21 +14,6 @@
 
 </details>
 
-<!---
-## About me
-- 📫 How to contact me: click email in profile
-- ⚡ Fun fact: 
-azharaul/azharaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @azharaul
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yandevxxx&layout=compact)
 
-
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-
-
---->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azharaul&layout=compact)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=azharaul&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yandevxxx&show_icons=true&theme=dark)
