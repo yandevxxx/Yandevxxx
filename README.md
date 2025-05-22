@@ -18,6 +18,7 @@ Hello, I'm Zild Jian X TO — a tech enthusiast who is deeply curious and eager 
   - Inventory and membership systems
 - Areas of Interest:
   - Game Development
+  - Website Developer
   - Backend Engineering
   - Database Systems
 
@@ -27,7 +28,7 @@ Hello, I'm Zild Jian X TO — a tech enthusiast who is deeply curious and eager 
 
 - **Languages**: Java, Python, SQL, Pawn
 - **Tools**: VS Code, Git, MySQL, PostgreSQLs
-- **Concepts**: OOP, CRUD, MVC, RESTful Design
+- **Concepts**: OOP, CRUD
 
 ---
 
