@@ -10,8 +10,7 @@ Hello, I'm Zild Jian X TO — a tech enthusiast who is deeply curious and eager 
   - Pawn (SA-MP scripting)
   - SQL (MySQL)
   - Python
-  - C++
-  - C#
+  - C
 - Working on:
   - Personal backend systems
   - Game-related scripting
@@ -21,13 +20,12 @@ Hello, I'm Zild Jian X TO — a tech enthusiast who is deeply curious and eager 
   - Website Developer
   - Backend Engineering
   - Database Systems
-
 ---
 
 ## Tools & Technologies
 
 - **Languages**: Java, Python, SQL, Pawn
-- **Tools**: VS Code, Git, MySQL, PostgreSQLs
+- **Tools**: VS Code, Git, MySQL, PostgreSQLs, HeidiSql, NetBeans
 - **Concepts**: OOP, CRUD, Algoritma
 
 ---
