@@ -20,21 +20,26 @@ Hello, I'm Zild Jian X TO — a tech enthusiast who is deeply curious and eager 
   - Website Developer
   - Backend Engineering
   - Database Systems
+
 ---
 
 ## Tools & Technologies
 
 - **Languages**: Java, Python, SQL, Pawn
-- **Tools**: VS Code, Git, MySQL, PostgreSQLs, HeidiSql, NetBeans
+- **Tools**: VS Code, Git, MySQL, PostgreSQL, HeidiSQL, NetBeans
 - **Concepts**: OOP, CRUD, Algoritma
 
 ---
 
-## GitHub Stats
+## 🔧 Tech Stack & Tools
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yandevxxx&layout=compact&theme=default)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yandevxxx&show_icons=true&theme=default)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/NetBeans_Logo.svg" alt="NetBeans" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Pawn_logo.png" alt="Pawn" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+</div>
 
 ---
 
